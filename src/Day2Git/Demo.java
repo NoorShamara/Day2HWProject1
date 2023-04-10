@@ -9,4 +9,7 @@ public class Demo {
 public static void add() {
 	System.out.println(1+2);
 }
+public static void diff() {
+	System.out.println(1-2);
+}
 }
